@@ -16,6 +16,8 @@ pip3 install -r requirements.txt
 python3 json-to-docx.py
 ```
 
+Once you run this, it will generate a `data.docx` file in the same directory. You can change the input and output file names in the script. Eventually, I will add command line arguments to make it more flexible.
+
 ## JSON (input) Example:
 
 ```json
