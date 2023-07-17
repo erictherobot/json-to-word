@@ -5,7 +5,7 @@ A simple python script to convert JSON to DOCX.
 ## Installation
 
 ```bash
-clone
+clone https://github.com/erictherobot/json-to-word.git json-to-docx
 cd json-to-docx
 pip3 install -r requirements.txt
 ```
